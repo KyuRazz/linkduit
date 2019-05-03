@@ -1,0 +1,2 @@
+# linkduit
+short link generator
